@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bbbd64263d8d3224385aa79027c7bd8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GamingBoard: {instanceID: 0}
+  - StartTile: {fileID: 1299891792648322919, guid: 11d08f8914408374fa255f63ae33f3ad,
+      type: 3}
+  - EmptySlot: {fileID: 6107700623137063661, guid: 779fb639ce022b447b7f55139c41db1d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
